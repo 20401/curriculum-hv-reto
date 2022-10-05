@@ -12,7 +12,7 @@ li {
     line-height: 24px;
 }
 span{color:brown;
-font-size:18px;}
+font-size:20px;}
 .contenedor-principal {
     width: 1200px;
     padding: 100px 88px;
@@ -21,7 +21,7 @@ font-size:18px;}
 }
 
 .descripcion-hv {
-    background   : #c1c1da;
+    background   : white;
     margin-bottom: 40px;
 
 }
@@ -32,16 +32,16 @@ font-size:18px;}
 }
 
 .proyectos {
-    background: #a1d1d1;
+    background:white;
 
 }
 
 .experiencia-laboral {
-    background: #a1c1d1;
+    background: white;
 }
 
 .education {
-    background: #a1f1d1
+    background: white
 }
 
 .barra-lateral {
@@ -49,5 +49,9 @@ font-size:18px;}
     color:white;
     display: flex;
     padding-left: 20px;
-
+font-size: 18px;
+}
+img{
+    border-radius: 50%;
+  box-shadow: -5px -2px 56px -2px rgba(243, 236, 236, 0.66);
 }
